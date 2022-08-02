@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Common Styles */
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        list-style-type: none;
+        outline: none;
+        text-decoration: none;
+        font-family: 'Work Sans', sans-serif;
+    }
+    html{
+        font-size: 62.5%;
+    }
+    :root{
+        --primary-color: #6edae6;
+        --white-color: #fff;
+        --white-black: #000;
+    }
+/* End of Common Styles */
+
+/* Section 1 */
+    .section-1{
+        width: 100%;
+        height: 100vh;
+        background-color: var(--primary-color);
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        clip-path: polygon(100% 0, 100% 96%, 31% 100%, 0 100%, 0 0);
+    }
+
+    /* Logo */
+    .logo{
+        pos
+    }
+    /* End of Logo */
+
+/* End of Section 1 */
